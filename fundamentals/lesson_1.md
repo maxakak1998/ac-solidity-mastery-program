@@ -51,9 +51,7 @@ overview of the essential protocols in each category
 
 **Task 2:** Provide a brief overview of at least 5 Layer 2 chain
 
-  -------------------------------------------------------------------------------
-  Name        Type             Brief Description
-  ----------- ---------------- --------------------------------------------------
+
   Optimism    Optimistic       Processes transactions off-chain, assumes validity
               rollup           unless proven fraudulent.
 
@@ -68,7 +66,7 @@ overview of the essential protocols in each category
 
   Immutable X Layer-2 for NFTs Specifically designed for scaling NFT
                                transactions.
-  -------------------------------------------------------------------------------
+  
 
 Here is some main types of layer 2
 
