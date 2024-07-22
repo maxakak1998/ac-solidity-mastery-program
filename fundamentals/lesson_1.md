@@ -5,14 +5,13 @@ overview of the essential protocols in each category
 
     a.  [Synthetix]{.mark}
 
-        i.  [Created in 2017 in the ICO (Initial Coin Offering)
-            > era.]{.mark}
+        i.  Created in 2017 in the ICO (Initial Coin Offering)
 
-        ii. [Decentralized finance (DeFi) platform]{.mark}
+        ii. Decentralized finance (DeFi) platform
 
-        iii. [Provide liquidity for Ethereum Virtual Machine (EVM)
+        iii. Provide liquidity for Ethereum Virtual Machine (EVM)
              > compatible chains (future, options, staking,
-             > swap)]{.mark}
+             > swap)
 
 2.  Tools assets management tools
 
@@ -24,9 +23,7 @@ overview of the essential protocols in each category
 
         iii. Can analytic and create charts and metrics
 
-        iv. Can easily find the most trending
-            > cryptocurrency![](./image1.png){width="6.5in"
-            > height="1.9305555555555556in"}
+        iv. Can easily find the most trending cryptocurrency
 
 3.  Infrastructure & Dev Tooling
 
@@ -98,34 +95,30 @@ task 1
 
 1.  [Lyra]{.mark}
 
-    a.  [[[Relies on various projects within the]{.underline}]{.mark}
-        > **[[Synthetix ecosystem]{.underline}]{.mark}** [[for its
+    a.  Relies on various projects within the
+        > Synthetix ecosystem for its
         > backend
-        > operations]{.underline}]{.mark}](https://members.delphidigital.io/projects/lyra)[.]{.mark}
+        > operations
 
-    b.  [[[Lyra is a decentralized finance options platform that
+    b.  Lyra is a decentralized finance options platform that
         > operates on the Optimism
-        > network]{.underline}]{.mark}](https://members.delphidigital.io/projects/lyra)
+        > network
 
 2.  [Curves]{.mark}
 
-    a.  [Using Dune on
-        > [[dashboard]{.underline}](https://classic.curve.fi/combinedstats)
-        > analytic]{.mark}
+    a.  Using Dune on  analytic
 
-    b.  [Can use Curve on Arbitrum or Optimism to easily swap between
-        > wstETH and ETH]{.mark}
+    b.  Can use Curve on Arbitrum or Optimism to easily swap between
 
 3.  [Arkanys]{.mark}
 
-    a.  [Arkanys merges video games, blockchain and artificial
+    a.  Arkanys merges video games, blockchain and artificial
         > intelligence to radically transform the gaming
-        > industry.]{.mark}
+        > industry
 
-    b.  [Using Optimism protocol]{.mark}
+    b.  Using Optimism protocol
 
-    c.  [[[In the Chainlink
-        > Ecosystem]{.underline}]{.mark}](https://www.chainlinkecosystem.com/ecosystem/arkanys)
+    c.  In the Chainlink Ecosystem
 
 4.  Meta Mask
 
