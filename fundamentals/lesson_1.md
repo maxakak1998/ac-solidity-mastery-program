@@ -52,19 +52,19 @@ overview of the essential protocols in each category
 **Task 2:** Provide a brief overview of at least 5 Layer 2 chain
 
 
-  Optimism    Optimistic       Processes transactions off-chain, assumes validity
+  Optimism:    Optimistic       Processes transactions off-chain, assumes validity
               rollup           unless proven fraudulent.
 
-  Arbitrum    Optimistic       Focuses on speed and low fees, while maintaining
+  Arbitrum:    Optimistic       Focuses on speed and low fees, while maintaining
               rollup           EVM compatibility.
 
-  zkSync      Zero-knowledge   Uses cryptographic proofs to verify transactions,
+  zkSync:      Zero-knowledge   Uses cryptographic proofs to verify transactions,
               rollup           offering high security.
 
-  Polygon     Hybrid           Offers multiple scaling solutions, including
+  Polygon:     Hybrid           Offers multiple scaling solutions, including
                                optimistic and zk-rollups.
 
-  Immutable X Layer-2 for NFTs Specifically designed for scaling NFT
+  Immutable X: Layer-2 for NFTs Specifically designed for scaling NFT
                                transactions.
   
 
