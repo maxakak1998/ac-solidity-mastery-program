@@ -1,4 +1,4 @@
-# Fundamentals / Exercise 3
+# Fundamentals / Exercise 2
 
 ## Intro
 In this exercise your goal is to build a calculator program
